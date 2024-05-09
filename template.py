@@ -25,7 +25,8 @@ file_list = [
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "archives/trails/trail1.ipynb"
+    "archives/trails/trail1.ipynb",
+    "test.txt"
 ]
 
 for filepath in file_list:
