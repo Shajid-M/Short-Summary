@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Short-Summary"
 AUTHOR_USER_NAME = "Shajid-M"
-SRC_REPO = "shorsummary"
+SRC_REPO = "shortSummary"
 AUTHOR_EMAIL = "shajidmughal7@gmail.com"
 
 
